@@ -11,6 +11,6 @@
 ### Contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Leal-3442E8?style=flat-square&logo=Linkedin&logoColor=F0EFEB&link=https://www.linkedin.com/in/matheuspleal/)](https://www.linkedin.com/in/matheuspleal/)
-[![Gmail Badge](https://img.shields.io/badge/-hi@matheuspleal.com-3442E8?style=flat-square&logo=Gmail&logoColor=F0EFEB&link=https://www.instagram.com/matheuspleal/)](https://www.instagram.com/matheuspleal/) 
+[![Gmail Badge](https://img.shields.io/badge/-hi@matheuspleal.com-3442E8?style=flat-square&logo=Gmail&logoColor=F0EFEB&link=mailto:hi@matheuspleal.com)](mailto:hi@matheuspleal.com) 
 [![Instagram Badge](https://img.shields.io/badge/-@matheuspleal-3442E8?style=flat-square&logo=Instagram&logoColor=F0EFEB&link=https://www.instagram.com/matheuspleal/)](https://www.instagram.com/matheuspleal/) 
 [![Twitter Badge](https://img.shields.io/badge/-Matheus%20Leal-3442E8?style=flat-square&logo=Twitter&logoColor=F0EFEB&link=https://www.twitter.com/matheuspleal/)](https://www.twitter.com/matheuspleal/)
