@@ -2,7 +2,7 @@
 
 ### 👋 Hi, welcome to my profile!
 
-👨🏻‍💻 ⠀ I currently working as a **Software Engineer** at **Reis Advogados Associados**
+👨🏻‍💻 ⠀ I currently working as a **Software Engineer** at **Superlógica Tecnologias S.A**
 
 ### About me
 
