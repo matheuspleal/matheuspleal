@@ -6,7 +6,7 @@
 
 ### About me
 
-🇺🇸 ⠀ Developer with more than nine years of experience in the programming universe. I started in the desktop environment using C# and SQL Server, and five years ago I migrated to Full Stack development applying JavaScript in the back-end, front-end and mobile, respectively using Node.js, ReactJS and React Native technologies. I am passionate about entrepreneurship, processes, methodologies, business culture and people driven by the purpose of transformation! I study UX/UI in my spare time and I'm a Branding enthusiast.
+🇺🇸 ⠀ Developer with more than ten years of experience in the programming universe. I started in the desktop environment using C# and SQL Server, and six years ago I migrated to Full Stack development applying JavaScript in the back-end, front-end and mobile, respectively using Node.js, ReactJS and React Native technologies. I am passionate about entrepreneurship, processes, methodologies, business culture and people driven by the purpose of transformation! I study UX/UI in my spare time and I'm a Branding enthusiast.
 
 ### Contact me
 
