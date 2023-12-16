@@ -1,12 +1,12 @@
 # Matheus Leal
 
-### 👋 Hi, welcome to my profile!
+<h3><span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 24px;"/></span> Hi, welcome to my profile!</h3>
 
-👨🏻‍💻 ⠀ I currently working as a **Software Engineer** at **Superlógica Tecnologias S.A**
+👨🏻‍💻 ⠀ I hold a Master's degree in Computer Science from UNESP and currently work as a **Software Engineer** at **Superlógica Tecnologias S.A.**
 
 ### About me
 
-🇺🇸 ⠀ Developer with more than ten years of experience in the programming universe. I started in the desktop environment using C# and SQL Server, and six years ago I migrated to Full Stack development applying JavaScript in the back-end, front-end and mobile, respectively using Node.js, ReactJS and React Native technologies. I am passionate about entrepreneurship, processes, methodologies, business culture and people driven by the purpose of transformation! I study UX/UI in my spare time and I'm a Branding enthusiast.
+🇺🇸 ⠀ I am a developer with over a decade of experience in the programming universe. I began my journey in the desktop environment using C#, Java, and SQL Server, but seven years ago, I transitioned to Full Stack development, applying JavaScript (currently TypeScript) in the back-end, front-end, and mobile, using the technologies Node.js, ReactJS, and React Native, respectively. I am passionate about technology, entrepreneurship, processes, methodologies, corporate culture, and individuals driven by the purpose of transformation! Additionally, I am an enthusiast in Branding and firmly believe in the power of building strong and impactful brands.
 
 ### Contact me
 
@@ -14,3 +14,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-hi@matheuspleal.com-3442E8?style=flat-square&logo=Gmail&logoColor=F0EFEB&link=mailto:hi@matheuspleal.com)](mailto:hi@matheuspleal.com) 
 [![Instagram Badge](https://img.shields.io/badge/-@matheuspleal-3442E8?style=flat-square&logo=Instagram&logoColor=F0EFEB&link=https://www.instagram.com/matheuspleal/)](https://www.instagram.com/matheuspleal/) 
 [![Twitter Badge](https://img.shields.io/badge/-Matheus%20Leal-3442E8?style=flat-square&logo=Twitter&logoColor=F0EFEB&link=https://www.twitter.com/matheuspleal/)](https://www.twitter.com/matheuspleal/)
+
+
