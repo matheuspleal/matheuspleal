@@ -1,8 +1,13 @@
 # Matheus Leal
 
+### 
 <h3><span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 24px;"/></span> Hi, welcome to my profile!</h3>
 
-👨🏻‍💻 ⠀ I hold a Master's degree in Computer Science from UNESP and currently work as a **Software Engineer** at **Superlógica Tecnologias S.A.**
+###
+<div class="center">
+  <p>👨🏻‍🎓 ⠀ I hold a <b>Master's degree</b> in <b>Computer Science</b> from <b>UNESP</b></p>
+  <p>👨🏻‍💻 ⠀ I currently work as a <b>Software Engineer</b> at <b> Superlógica Tecnologias S.A.</b></p>
+</div>
 
 ### About me
 
