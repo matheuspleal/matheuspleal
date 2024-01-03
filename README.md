@@ -1,4 +1,8 @@
-# Matheus Leal
+![Cover](https://i.imgur.com/A6JC2D5.png)
+
+<div align="center">
+  <h1>Matheus Leal</h1>
+</div>
 
 ### 
 <h3><span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 24px;"/></span> Hi, welcome to my profile!</h3>
