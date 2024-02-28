@@ -1,4 +1,4 @@
-![Cover](https://i.imgur.com/A6JC2D5.png)
+![Cover](https://i.imgur.com/xENQDwr.png)
 
 <div align="center">
   <h1>Matheus Leal</h1>
