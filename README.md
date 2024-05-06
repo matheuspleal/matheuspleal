@@ -15,7 +15,7 @@
 
 ### About me
 
-🇺🇸 ⠀ I am a developer with over a decade of experience in the programming universe. I began my journey in the desktop environment using C#, Java, and SQL Server, but seven years ago, I transitioned to Full Stack development, applying JavaScript (currently TypeScript) in the back-end, front-end, and mobile, using the technologies Node.js, ReactJS, and React Native, respectively. I am passionate about technology, entrepreneurship, processes, methodologies, corporate culture, and individuals driven by the purpose of transformation! Additionally, I am an enthusiast in Branding and firmly believe in the power of building strong and impactful brands.
+🇺🇸 ⠀ I am a developer with over a decade of experience in the programming universe. I began my journey in the desktop environment using C#, Java, and SQL Server, but seven years ago, I transitioned to Full Stack development, applying JavaScript (currently TypeScript) in the backend, frontend, and mobile, using the technologies Node.js, ReactJS, and React Native, respectively. I am passionate about technology, entrepreneurship, processes, methodologies, corporate culture, and individuals driven by the purpose of transformation! Additionally, I am an enthusiast in Branding and firmly believe in the power of building strong and impactful brands.
 
 ### Contact me
 
