@@ -10,7 +10,7 @@
 ###
 <div class="center">
   <p>👨🏻‍🎓 ⠀ I hold a <b>Master's degree</b> in <b>Computer Science</b> from <b>UNESP</b></p>
-  <p>👨🏻‍💻 ⠀ I currently work as a <b>Staff Engineer</b> at <b> Superlógica Tecnologias S.A.</b></p>
+  <p>👨🏻‍💻 ⠀ I currently work as a <b>Senior Software Engineer</b> at <b>iFood</b></p>
 </div>
 
 ### About me
